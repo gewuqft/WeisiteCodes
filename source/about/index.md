@@ -23,6 +23,8 @@ layout: about
 ## 联系我们
 社团QQ群：793485839
 QQ公众号：2460966866
+微信公众号：USTC格物致知社
+
 技术支持、意见反馈：
 guyimin@mail.ustc.edu.cn
 jzhang19@mail.ustc.edu.cn
