@@ -12,6 +12,7 @@
     "version": "5.2.0"
   },
   "dependencies": {
+    "dplayer": "^1.26.0",
     "hexo": "^5.0.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
@@ -22,7 +23,7 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "hexo-tag-mmedia": "^0.1.9",
+    "hexo-tag-dplayer": "^0.3.3",
     "hexo-theme-fluid": "^1.8.5"
   }
 }
